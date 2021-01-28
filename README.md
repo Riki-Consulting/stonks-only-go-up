@@ -19,3 +19,5 @@ Make data available to the frontend
 ## Frontend
 
 Duno, some react thing to display what to buy along with some memes for user acceptance testing.
+
+P.S Serious contributers only please, this is an extremely serious tool
