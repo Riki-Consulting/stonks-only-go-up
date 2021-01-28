@@ -8,6 +8,7 @@ Where the magic happens, basic premise, grab thought provoking financial insight
 
 - [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets)
 - [u/deepfuckingvalue](https://www.reddit.com/u/deepfuckingvalue)
+- [r/smallstreetbets](https://www.reddit.com/r/smallstreetbets/)
 
 Chuck em in firestore or mongoDB or some other place I don't care.
 
